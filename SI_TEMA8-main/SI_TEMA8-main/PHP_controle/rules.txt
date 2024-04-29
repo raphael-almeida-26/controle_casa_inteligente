@@ -1,0 +1,5 @@
+Incendio=enviar_alerta_bombeiro, acionar_geradores, desligar_energia
+Invasão=chamar_policia
+falta_De_energia=ligar_cronobrack
+vazamento_gases=abrir_janelas, ligar_exaustores
+vazamento_agua=fechar_registro, enviar_alerta
